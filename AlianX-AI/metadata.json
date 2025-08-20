@@ -1,0 +1,5 @@
+{
+  "name": "Project Chimera Dashboard",
+  "description": "A web dashboard for Project Chimera, providing a centralized interface for initiating, monitoring, and analyzing security scans. It features real-time analytics, scan management, and detailed findings reports.",
+  "requestFramePermissions": []
+}
